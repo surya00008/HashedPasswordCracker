@@ -1,0 +1,10 @@
+# Python virtual environment
+.venv/
+venv/
+
+# Ignore other specific dictionary formats if any, but NOT .txt
+*.dict
+*.lst
+
+# VS Code specific files (optional, but good practice)
+.vscode/

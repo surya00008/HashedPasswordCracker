@@ -2,7 +2,8 @@
 .venv/
 venv/
 
-# Ignore other specific dictionary formats if any, but NOT .txt
+# Dictionary files
+rockyou.txt 
 *.dict
 *.lst
 
